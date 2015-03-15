@@ -2,12 +2,9 @@ package lp3atividade2;
 
 import classes.Controle;
 import classes.Jogo;
-import classes.Papel;
-import classes.Pedra;
 import classes.Produto;
 import classes.Radio;
 import classes.TV;
-import classes.Tesoura;
 
 /**
  *
